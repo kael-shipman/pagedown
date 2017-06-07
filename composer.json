@@ -1,0 +1,12 @@
+{
+    "name": "stackexchange/pagedown",
+    "description": "markdown converter, based on showdown",
+    "keywords": ["markdown"],
+    "license": "MIT",
+    "support" : {
+        "issues": "http://code.google.com/p/pagedown/issues/list",
+        "source": "https://code.google.com/p/pagedown/"
+    },
+    "homepage": "http://code.google.com/p/pagedown/wiki/PageDown"
+}
+
